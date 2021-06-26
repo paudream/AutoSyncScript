@@ -1,7 +1,5 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 更新日志
 
 ```
@@ -124,15 +122,9 @@
 配置后，fork走的仓库也会跟着我的更新而更新代码，然后再自动拉取新增的仓库，属于无限套娃
 
 ```
-看不懂的可参考一下下面文章。
 
-1、本项目图文教程
 
-https://mp.weixin.qq.com/s/gOA8PSwLfhp9bLLnBkJf-Q
 
-2、拉取项目原理举例
-
-https://mp.weixin.qq.com/s/fcI4vQHD8TNajvTML9g3AA
 
 
 
